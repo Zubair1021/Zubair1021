@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Gif">
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Gif" style="float=right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair1021&label=Profile%20views&color=0e75b6&style=flat" alt="zubair1021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubair1021" alt="zubair1021" /></a> </p>
