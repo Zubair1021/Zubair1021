@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<div align="center"><img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Gif" style="width:100px height:100px"></div>
+<div align="center"><img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Gif" style="width:80px height:80px"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair1021&label=Profile%20views&color=0e75b6&style=flat" alt="zubair1021" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zubair1021" alt="zubair1021" /></a> </p>
 
 - 🌱 I’m currently learning **BS Computer Science From University of Engineering and Technology, Lahore**
 
