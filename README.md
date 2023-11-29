@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<div align="center"><img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Gif" style="width:50px height:50px"></div>
+<div align="center"><img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Gif" width="100" height="100"></div>
 
 
 - 🌱 I’m currently learning **BS Computer Science From University of Engineering and Technology, Lahore**
