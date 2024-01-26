@@ -1,4 +1,3 @@
-<div align="center"><img src="https://drive.google.com/file/d/1X0G8cX9D7h7b9Bn7155EOhVBesJzCdgT/view?usp=drive_link" alt="Gif" width="100px" height="100px"></div>
 <h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
 <h3 align="center">Passionate Computer Scientist|Beta MLSA @Microsoft|Tech Alchemist|Digital Maestro|Programmer</h3>
 <div align="center"><img src="[https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif]" alt="Gif" width="600px" height="400px"></div>
