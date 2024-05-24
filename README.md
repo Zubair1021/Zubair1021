@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **zubairjaved1014@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1CNCQVA7f72ynVYxWYhU4JeWrrpdVYrrZ/view?usp=drive_link](https://drive.google.com/file/d/1CNCQVA7f72ynVYxWYhU4JeWrrpdVYrrZ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CNCQVA7f72ynVYxWYhU4JeWrrpdVYrrZ/view?usp=drive_link](My Resume)
 
 - ⚡ Fun fact **I think I am Hardworking**
 
