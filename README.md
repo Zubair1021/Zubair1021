@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
-<h3 align="center">Passionate Computer Scientist|Beta MLSA @Microsoft|Tech Alchemist|Digital Maestro|Programmer</h3>
+<h3 align="center">Passionate Computer Scientist|Beta MLSA @Microsoft|Leader @Aspire Program|Tech Alchemist|Digital Maestro|Programmer</h3>
 <div align="center"><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MYGIF" width="600px" height="400px"></div>
 
-- 🌱 I’m currently learning **BS Computer Science From University of Engineering and Technology, Lahore**
+- 🌱 I’m currently learning **BS in Computer Science From the University of Engineering and Technology, Lahore**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/m.zubair](https://linktr.ee/m.zubair)
 
 - 📫 How to reach me **zubairjaved1014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vrm8yzIE191S_FsjPMOd_OGZdvibVYPf/view](https://drive.google.com/file/d/1Vrm8yzIE191S_FsjPMOd_OGZdvibVYPf/view)
+- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1CNCQVA7f72ynVYxWYhU4JeWrrpdVYrrZ/view?usp=drive_link](https://drive.google.com/file/d/1CNCQVA7f72ynVYxWYhU4JeWrrpdVYrrZ/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Hardworking**
 
