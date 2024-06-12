@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
-<h3 align="center">Passionate Computer Scientist|Beta MLSA @Microsoft|Leader @Aspire Program|Tech Alchemist|Digital Maestro|Programmer</h3>
+<h3 align="center">Passionate Computer Scientist|Beta MLSA @Microsoft|Leader @Aspire Program|Tech Alchemist|Digital Maestro|Programmer|MERN-Fellow @Bytewise</h3>
 <div align="center"><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MYGIF" width="600px" height="400px"></div>
 
 - 🌱 I’m currently learning **BS in Computer Science From the University of Engineering and Technology, Lahore**
