@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zubair</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Programmer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair1021&label=Profile%20views&color=0e75b6&style=flat" alt="zubair1021" /> </p>
-
 <div align="center"><img src="https://i.ibb.co/Mkjg2y8/122.gif" alt="MYGIF" width="600px" height="400px"></div>
 
-- 🌱 I’m currently learning BS in Computer Science From the University of Engineering and Technology, Lahore
+- 🌱 I’m currently learning BS in Computer Science From the <b> University of Engineering and Technology, Lahore </b>.
 
 - 👨‍💻 All of my projects are available at [zubairtech.me](zubairtech.me)
 
