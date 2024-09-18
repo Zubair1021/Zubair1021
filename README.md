@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair1021&label=Profile%20views&color=0e75b6&style=flat" alt="zubair1021" /> </p>
 
+<div align="center"><img src="https://i.ibb.co/Mkjg2y8/122.gif" alt="MYGIF" width="600px" height="400px"></div>
+
+- 🌱 I’m currently learning BS in Computer Science From the University of Engineering and Technology, Lahore
+
 - 👨‍💻 All of my projects are available at [zubairtech.me](zubairtech.me)
 
 - 📫 How to reach me **zubairjaved1014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-p3S8OTULEnXvgtSALV-CpszBh5o0gpI/view?up=sharing](https://drive.google.com/file/d/1-p3S8OTULEnXvgtSALV-CpszBh5o0gpI/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-p3S8OTULEnXvgtSALV-CpszBh5o0gpI/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am proficient**
 
