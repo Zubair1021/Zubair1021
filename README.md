@@ -35,19 +35,19 @@
 ---
 <h3 align="center" style="color:#ff5722;">Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-zubair" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadzubair1021/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zubair" height="30" width="40" />
   </a>
-  <a href="https://fb.com/muhammad-zubair" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad zubair" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/its_zubairj" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_zubairj" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/zjdeveloper" target="_blank">
+  <a href="#r" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zj developer" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/zubair" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zubair" height="30" width="40" />
   </a>
 </p>
@@ -179,6 +179,9 @@
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   </a>&nbsp;&nbsp;
+    <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="48" height="48"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/>
   </a>&nbsp;&nbsp;
@@ -193,6 +196,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="48" height="48"/>
+  </a>&nbsp;&nbsp;
+    <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="48" height="48"/>
   </a>
 </p>
 
