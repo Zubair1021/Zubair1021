@@ -57,8 +57,6 @@
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
----
-
 <h3 align="left">🎨 Frontend Development</h3>
 
 <p align="left">
@@ -196,10 +194,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
-    <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="48" height="48"/>
-  </a>
+      </a>
 </p>
 
 ---
