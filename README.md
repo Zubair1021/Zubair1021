@@ -2,8 +2,9 @@
 <h4 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=AI+%E2%9C%95+Full+Stack+Engineering;Designing+Intelligent+Systems+%7C+Building+Scalable+Web+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Nuxt+%E2%80%A2+Python+%E2%80%A2+.NET" alt="Typing Animation" />
 </h4>
----
-
+<br>
+<br><br>
+<br>
 <!-- Rounded Border GIF -->
 <table width="100%">
   <tr>
