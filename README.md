@@ -123,12 +123,6 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/>
   </a>&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/>
   </a>
@@ -175,34 +169,7 @@
   <img src="https://img.shields.io/badge/RAG%20Pipeline-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" height="36"/>&nbsp;
   <img src="https://img.shields.io/badge/Agentic%20AI-7209B7?style=for-the-badge&logo=probot&logoColor=white" height="36"/>
 </p>
-
 ---
-
-<h3 align="left">📱 Mobile & Systems</h3>
-
-<p align="left">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.qt.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="48" height="48"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="48" height="48"/>
-  </a>
-</p>
-
----
-
 <h3 align="left">🔧 DevOps & Tools</h3>
 
 <p align="left">
@@ -230,8 +197,6 @@
 </p>
 
 ---
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
