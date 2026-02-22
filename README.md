@@ -1,6 +1,7 @@
 <h1 align="center" style="color:#4CAF50;">Hi 👋, I'm Muhammad Zubair</h1>
-<h3 align="center" style="color:#2196F3;">A passionate Full Stack Web Developer and Programmer from Pakistan</h3>
-<h4 align="center">Bridging AI intelligence with modern Full Stack engineering to build smart, scalable digital experiences.</h4>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Where+AI+meets+Full+Stack+Engineering;Building+intelligent%2C+scalable+web+experiences;From+LLMs+to+Production+Ready+Apps" alt="Typing SVG" />
+</h3>
 
 <!-- Rounded Border GIF -->
 <div align="center">
@@ -43,7 +44,7 @@
 
 ---
 
-p align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
