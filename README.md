@@ -2,22 +2,36 @@
 <h4 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=AI+%E2%9C%95+Full+Stack+Engineering;Designing+Intelligent+Systems+%7C+Building+Scalable+Web+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Nuxt+%E2%80%A2+Python+%E2%80%A2+.NET" alt="Typing Animation" />
 </h4>
-
-<!-- Rounded Border GIF -->
-<div align="center">
-  <img src="https://i.ibb.co/Mkjg2y8/122.gif" alt="MYGIF" width="600px" height="400px" style="border-radius: 20px; border: 2px solid #f2f2f2;" />
-</div>
-
-- 🌱 I’m currently pursuing a **BS in Computer Science** from the <b>University of Engineering and Technology, Lahore</b>.
-
-- 👨‍💻 All of my projects are available at [zubairdeveloper.tech](zubairdeveloper.tech)
-- 
-- 📫 How to reach me: **zubairjaved1014@gmail.com**
-
-- ⚡ Fun fact: **I think I am proficient**
-
 ---
 
+<!-- Rounded Border GIF -->
+<table width="100%">
+  <tr>
+    <!-- Left Side (Text) -->
+    <td width="55%" align="left">
+
+🌱 I’m currently pursuing a **BS in Computer Science** from the  
+**University of Engineering and Technology, Lahore**
+
+👨‍💻 All of my projects are available at  
+[zubairdeveloper.tech](https://zubairdeveloper.tech)
+
+📫 How to reach me:  
+**zubairjaved1014@gmail.com**
+
+⚡ Fun fact:  
+**I think I am proficient**
+
+  </td>
+
+  <!-- Right Side (GIF) -->
+  <td width="45%" align="center">
+    <img src="https://i.ibb.co/Mkjg2y8/122.gif" width="100%" style="border-radius:20px;" />
+  </td>
+  </tr>
+</table>
+
+---
 <h3 align="center" style="color:#ff5722;">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-zubair" target="_blank">
