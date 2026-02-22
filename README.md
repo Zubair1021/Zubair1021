@@ -167,7 +167,7 @@
   <img src="https://img.shields.io/badge/RAG%20Pipeline-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" height="36"/>&nbsp;
   <img src="https://img.shields.io/badge/Agentic%20AI-7209B7?style=for-the-badge&logo=probot&logoColor=white" height="36"/>
 </p>
----
+
 <h3 align="left">🔧 DevOps & Tools</h3>
 
 <p align="left">
